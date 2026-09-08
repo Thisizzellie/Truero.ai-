@@ -1,6 +1,6 @@
 # Truero.ai
 
-Automated data validation for ML engineers in finance and healthcare.
+Automated data validation for engineers.
 
 Truero catches hidden problems in your datasets before you train —
 class imbalance, data drift, target leakage, bias, and silent failures
